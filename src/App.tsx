@@ -1,7 +1,8 @@
-import Navbar from "./Component/Navbar/Navbar";
 import Home from "./Pages/Home/Home";
 import Products from "./Pages/Products/Products";
 import Users from "./Pages/Users/Users";
+import Footer from "./components/Footer/Footer";
+import Navbar from "./components/Navbar/Navbar";
 import "./styles/global.scss";
 import {
   createBrowserRouter,
