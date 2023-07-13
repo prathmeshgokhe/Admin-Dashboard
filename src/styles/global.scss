@@ -1,3 +1,4 @@
+@import "./variable.scss";
 * {
   margin: 0;
   padding: 0;
@@ -7,4 +8,20 @@
 a {
   text-decoration: none;
   color: inherit;
+}
+
+.main {
+  // font-family: "Intra"; sans-serif;
+  background-color: $dark-bg;
+  color: $main-color;
+}
+
+.container {
+  display: flex;
+}
+
+.menucontainer {
+  padding: 5px 20px;
+  border-right: 2px solid $soft-bg;
+  width: 250px;
 }
