@@ -1,5 +1,13 @@
-.container {
-    // height: 100vh;
-    // width: 100%;
-    // background-color: aquamarine;
+@import "../../styles/variable.scss";
+
+.Home {
+    display: grid;
+    gap: 20px;
+    width: 100%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    .box {
+        padding: 20px;
+        border-radius: 10px;
+        border: 1px solid $soft-bg;
+    }
 }
