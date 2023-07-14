@@ -1,7 +1,8 @@
 import "./topbox.scss";
+import { topDealUsers } from "../../data";
 
 const topbox = () => {
-  return <div>topbox</div>;
+  return <div></div>;
 };
 
 export default topbox;
