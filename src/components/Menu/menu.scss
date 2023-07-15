@@ -8,20 +8,21 @@
         gap: 10px;
     }
     .title {
-        font-size: 12px;
-        font-weight: 200;
-        color: $soft-bg;
+        font-size: 16px;
+        font-weight: 600;
+        color: $title;
     }
     .listItem {
         display: flex;
         align-items: center;
         gap: 10px;
-        padding: 10px;
+        padding: 15px;
         border-radius: 10px;
+        font-weight: 500;
 
         &:hover {
-            background-color: $soft-bg;
-            color: #fe3f44;
+            background-color: $hover;
+            // color: #fe3f44;
         }
     }
 }

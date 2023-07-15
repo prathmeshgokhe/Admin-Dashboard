@@ -14,6 +14,7 @@ const Menu = () => {
               <span className="listItemTitle">{listitem.title}</span>
             </Link>
           ))}
+          <hr />
         </div>
       ))}
     </div>

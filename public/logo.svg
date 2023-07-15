@@ -1,24 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="32px" height="32px" viewBox="-13.5 0 80 80" xmlns="http://www.w3.org/2000/svg">
-  <g id="App_design" data-name="App design" transform="translate(-254.07 -70.142)">
-    <g id="Group_6" data-name="Group 6">
-      <g id="Group_5" data-name="Group 5">
-        <g id="Group_4" data-name="Group 4">
-          <g id="Group_3" data-name="Group 3">
-            <path id="Path_4" data-name="Path 4" d="M307.07,78.142v64a8.01,8.01,0,0,1-8,8h-37a8.011,8.011,0,0,1-8-8v-64a8.01,8.01,0,0,1,8-8h37A8.009,8.009,0,0,1,307.07,78.142Zm-6,64v-8h-41v8a2.032,2.032,0,0,0,2,2h37A2.026,2.026,0,0,0,301.07,142.142Zm0-14v-50a2.025,2.025,0,0,0-2-2h-37a2.032,2.032,0,0,0-2,2v50Z" fill="#104386"/>
-            <path id="Path_5" data-name="Path 5" d="M301.07,78.142v50h-41v-50a2.032,2.032,0,0,1,2-2h37A2.025,2.025,0,0,1,301.07,78.142Zm-4.51,40.5v-34.5a3,3,0,0,0-3-3H267.58a3,3,0,0,0-3,3v34.5a3,3,0,0,0,3,3h25.98A3,3,0,0,0,296.56,118.642Z" fill="#f60"/>
-            <path id="Path_6" data-name="Path 6" d="M296.56,84.142v34.5a3,3,0,0,1-3,3H267.58a3,3,0,0,1-3-3v-34.5a3,3,0,0,1,3-3h25.98A3,3,0,0,1,296.56,84.142Zm-6,31.5v-7.09h-7.99v7.09Zm0-13.09V87.142h-7.99v15.41Zm-13.99,13.09v-28.5h-5.99v28.5Z" fill="#104386"/>
-            <rect id="Rectangle_3" data-name="Rectangle 3" width="7.99" height="7.089" transform="translate(282.57 108.552)" fill="#ffffff"/>
-            <rect id="Rectangle_4" data-name="Rectangle 4" width="7.99" height="15.411" transform="translate(282.57 87.142)" fill="#69f"/>
-            <path id="Path_7" data-name="Path 7" d="M280.57,136.462a2.84,2.84,0,1,1-2.839,2.84A2.837,2.837,0,0,1,280.57,136.462Z" fill="#104386"/>
-            <path id="Path_8" data-name="Path 8" d="M299.07,144.142h-18.5v-2a2.84,2.84,0,0,0,0-5.68v-2.32h20.5v8A2.026,2.026,0,0,1,299.07,144.142Z" fill="#69f"/>
-            <path id="Path_9" data-name="Path 9" d="M280.57,144.142h-18.5a2.032,2.032,0,0,1-2-2v-8h20.5v2.32a2.84,2.84,0,0,0,0,5.68Z" fill="#69f"/>
-            <rect id="Rectangle_5" data-name="Rectangle 5" width="5.99" height="28.5" transform="translate(270.58 87.142)" fill="#ffffff"/>
-          </g>
-        </g>
-      </g>
-    </g>
-  </g>
+<svg width="2500" height="1877" viewBox="0 0 2500 1877" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1_7)">
+<path d="M1250 1836.77L36.1593 422.078L446.594 26.198H2053.4L2463.84 422.078L1250 1836.77Z" fill="#3A57E8" stroke="black" stroke-width="52.3959"/>
+<path d="M548.327 825.035L756.603 1071.21C870.934 965.89 1139.56 990.111 1223.07 1133.79C1454.9 1137.45 1650.94 1149.06 1727.38 1056.39C1749.02 1025.92 1755.49 992.379 1726.52 969.785C1589.69 876.441 1099.19 925.644 548.327 825.035ZM216.634 432.994C213.723 433.722 505.624 152.094 505.624 152.094H646.717C502.777 267.245 401.819 426.101 357.536 599.538L216.634 432.994ZM961.407 1299.98L1250 1635.93L1526.31 1314.28C1386.04 1347.22 1230.15 1363.5 961.407 1299.98Z" fill="white" stroke="black" stroke-width="46.5742" stroke-miterlimit="4.7"/>
+<path d="M1674.26 152.094H1796.52C1799.21 196.758 1777.64 225.5 1764.12 239.671C1735.69 199.436 1690.76 161.554 1674.26 152.094Z" fill="white" stroke="black" stroke-width="46.5742" stroke-miterlimit="9.6"/>
+<path d="M2010.48 759.406L2283.36 432.994L2085.53 237.313V457.553H1676.96C1667.58 244.552 1451.85 153.037 1200.76 155.86C970.091 158.457 777.521 216.552 759.514 344.94C741.93 417.465 821.807 539.696 1305.31 515.227C1690.12 506.718 1926.02 591.198 2010.48 759.406Z" fill="white" stroke="black" stroke-width="46.5742"/>
+</g>
+<defs>
+<clipPath id="clip0_1_7">
+<rect width="2500" height="1877" fill="white"/>
+</clipPath>
+</defs>
 </svg>

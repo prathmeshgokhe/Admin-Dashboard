@@ -10,7 +10,8 @@
     .box {
         padding: 20px;
         border-radius: 10px;
-        border: 1px solid $soft-bg;
+        // border: 1px solid $soft-bg;
+        background-color: $containers;
     }
 
     .box1 {
