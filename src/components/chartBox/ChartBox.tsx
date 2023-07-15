@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import "./chartbox.scss";
-import { topDealUsers } from "../../data";
+// import { topDealUsers } from "../../data";
 
 import { ResponsiveContainer, LineChart, Line, Tooltip } from "recharts";
 

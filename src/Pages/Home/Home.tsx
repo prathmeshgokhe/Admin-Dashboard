@@ -1,5 +1,5 @@
 import "./home.scss";
-import Topbox from "../../components/topBox/topbox";
+import Topbox from "../../components/topBox/TopBox";
 import ChartBox from "../../components/chartBox/ChartBox";
 
 const Home = () => {
