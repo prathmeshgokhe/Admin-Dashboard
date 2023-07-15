@@ -59,6 +59,7 @@ const BigChartBox = () => {
       <h1>Revenue Model</h1>
       <div className="chart">
         <ResponsiveContainer width="99%" height="100%">
+          {/* ALways keep the width 99% to get the container proper */}
           <AreaChart
             width={500}
             height={400}
