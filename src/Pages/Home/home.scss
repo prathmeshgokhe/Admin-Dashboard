@@ -6,6 +6,7 @@
     width: 100%;
     grid-template-columns: repeat(4, 1fr);
     grid-auto-rows: minmax(180px, auto);
+    padding: 25px 0;
 
     .box {
         padding: 20px;

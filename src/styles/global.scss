@@ -20,6 +20,7 @@ a {
 
 .container {
   display: flex;
+  background-color: $dark-bg;
 }
 
 .contentcontainer {
@@ -28,8 +29,19 @@ a {
 }
 
 .menucontainer {
-  padding: 5px 20px;
-  border-right: 2px solid $soft-bg;
+  padding: 15px 20px;
+  border-right: 1px solid $soft-bg;
   // border: 1px solid red;
-  width: 300px;
+  background-color: $smartbg;
+  width: 320px;
+}
+
+.header {
+  border-bottom: 1px solid $soft-bg;
+  background-color: $smartbg;
+}
+
+.footer {
+  border-top: 1px solid $soft-bg;
+  background-color: $smartbg;
 }
