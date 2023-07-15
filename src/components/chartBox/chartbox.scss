@@ -11,7 +11,9 @@
         .title {
             display: flex;
             align-items: center;
-            gap: 10px;
+            gap: 5px;
+            font-size: 15px;
+            font-weight: 600;
         }
     }
     .chartInfo {
@@ -25,6 +27,7 @@
             width: 100%;
         }
         .texts {
+            display: flex;
             flex-direction: column;
             text-align: right;
             .percentage {
