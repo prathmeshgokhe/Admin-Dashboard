@@ -25,7 +25,7 @@ export const menu = [
         id: 1,
         title: "Users",
         url: "/users",
-        icon: "user.svg",
+        icon: "users.svg",
       },
       {
         id: 2,
@@ -81,7 +81,7 @@ export const menu = [
   //   ],
   // },
   {
-    id: 4,
+    id: 5,
     title: "Analytics",
     listItems: [
       {
@@ -99,7 +99,7 @@ export const menu = [
     ],
   },
   {
-    id: 5,
+    id: 4,
     title: "Maintenance",
     listItems: [
       {
