@@ -47,56 +47,41 @@ export const menu = [
       },
     ],
   },
-  {
-    id: 3,
-    title: "General",
-    listItems: [
-      {
-        id: 1,
-        title: "Elements",
-        url: "/",
-        icon: "element.svg",
-      },
-      {
-        id: 2,
-        title: "Notes",
-        url: "/",
-        icon: "note.svg",
-      },
-      {
-        id: 3,
-        title: "Forms",
-        url: "/",
-        icon: "form.svg",
-      },
-      {
-        id: 4,
-        title: "Calendar",
-        url: "/",
-        icon: "calendar.svg",
-      },
-    ],
-  },
+
+  // General section commented out so that it doesnt show alot of content.
+
+  // {
+  //   id: 3,
+  //   title: "General",
+  //   listItems: [
+  //     {
+  //       id: 1,
+  //       title: "Elements",
+  //       url: "/",
+  //       icon: "element.svg",
+  //     },
+  //     {
+  //       id: 2,
+  //       title: "Notes",
+  //       url: "/",
+  //       icon: "note.svg",
+  //     },
+  //     {
+  //       id: 3,
+  //       title: "Forms",
+  //       url: "/",
+  //       icon: "form.svg",
+  //     },
+  //     {
+  //       id: 4,
+  //       title: "Calendar",
+  //       url: "/",
+  //       icon: "calendar.svg",
+  //     },
+  //   ],
+  // },
   {
     id: 4,
-    title: "Maintenance",
-    listItems: [
-      {
-        id: 1,
-        title: "Settings",
-        url: "/",
-        icon: "setting.svg",
-      },
-      {
-        id: 2,
-        title: "Backups",
-        url: "/",
-        icon: "backup.svg",
-      },
-    ],
-  },
-  {
-    id: 5,
     title: "Analytics",
     listItems: [
       {
@@ -110,6 +95,24 @@ export const menu = [
         title: "Logs",
         url: "/",
         icon: "log.svg",
+      },
+    ],
+  },
+  {
+    id: 5,
+    title: "Maintenance",
+    listItems: [
+      {
+        id: 1,
+        title: "Settings",
+        url: "/",
+        icon: "setting.svg",
+      },
+      {
+        id: 2,
+        title: "Backups",
+        url: "/",
+        icon: "backup.svg",
       },
     ],
   },

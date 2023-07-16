@@ -4,6 +4,8 @@
     padding: 20px;
     display: flex;
     justify-content: space-between;
+    border-bottom: 1px solid $soft-bg;
+    background-color: $smartbg;
     .logo {
         display: flex;
         align-items: center;

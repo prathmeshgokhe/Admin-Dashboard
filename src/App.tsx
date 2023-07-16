@@ -11,9 +11,7 @@ function App() {
   const Layout = () => {
     return (
       <div className="main">
-        <div className="header">
-          <Navbar />
-        </div>
+        <Navbar />
         <div className="container">
           <div className="menucontainer">
             <Menu />
@@ -22,9 +20,7 @@ function App() {
             <Outlet />
           </div>
         </div>
-        <div className="footer">
-          <Footer />
-        </div>
+        <Footer />
       </div>
     );
   };
